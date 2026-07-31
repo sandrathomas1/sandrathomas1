@@ -59,7 +59,7 @@
     <td>🏢</td>
     <td><strong>Frappe Technologies Pvt Ltd</strong></td>
     <td><em>Support Consultant</em></td>
-    <td><code>Oct 2025 – Present</code></td>
+    <td><code>Oct 2025 – July 2026</code></td>
   </tr>
   <tr>
     <td colspan="4">
