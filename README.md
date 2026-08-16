@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 Currently working as **Support Consultant @ Frappe Technologies Pvt Ltd**
+- 🔭 Currently working as a **Senior Techno-Functional Consultant**
 - 🛠️ Specialized in **custom doctypes, scripts, reports & workflows** on Frappe
 - 🌐 Experienced in **WhatsApp Integration (Meta)** and **Payment Gateway** integrations
 - 📝 Contributor to **ERPNext documentation** — user guides & SOPs
