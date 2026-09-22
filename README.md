@@ -32,6 +32,7 @@
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
 ![ERPNext](https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
 
@@ -104,8 +105,9 @@
 
 ## 🚀 Projects
 
-| Project | Modules | Description |
+| Project | Modules / Technologies | Description |
 |---|---|---|
+| 📂 **DCMS – Document Control Management System** | Vue.js · Frappe · Document Management · Workflow | Developed an enterprise document control system using **Vue.js and Frappe** to manage document registers, revisions, approval workflows, transmittals, traceability and controlled document lifecycles |
 | 🍹 **Truefroot** | Inventory · Manufacturing · Sales · Accounting | Deployed ERPNext for a fruit pulp production company, optimizing inventory, manufacturing, sales & HR |
 | 👓 **Eyeco** | Sales · Inventory · Accounting | Built a front-end order-taking system with backend ERPNext integration for an opticals business |
 | 🚗 **TriE** | Inventory · Sales · Accounting · WhatsApp · HRMS · Subscription | Subscription-based car wash system with automated service jobs, payments & gateway integration |
@@ -114,13 +116,28 @@
 
 ---
 
-## 🎓 Education
+## 🏆 Certifications
 
-🎓 **Bachelor of Computer Application**
-Yeldho Mar Baseliouse College, Puthuppady &nbsp;|&nbsp; `2017 – 2020`
+### 📜 ERPGulf Training for Accountants
+
+**Udemy** &nbsp;•&nbsp; `Issued May 2023`
+
+<a href="https://www.udemy.com/certificate/UC-c23d9088-5b68-48cf-b6fb-dd1f32b8f5b6/">
+  <img src="https://img.shields.io/badge/View_Udemy_Certificate-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
+</a>
+
+**Credential ID:** `UC-c23d9088-5b68-48cf-b6fb-dd1f32b8f5b6`
+
+🔗 **[View Certificate](https://www.udemy.com/certificate/UC-c23d9088-5b68-48cf-b6fb-dd1f32b8f5b6/)**
 
 ---
 
+## 🎓 Education
+
+🎓 **Bachelor of Computer Application**  
+Yeldho Mar Baseliouse College, Puthuppady &nbsp;|&nbsp; `2017 – 2020`
+
+---
 
 ## 🤝 Let's Connect
 
